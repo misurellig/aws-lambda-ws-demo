@@ -21,7 +21,7 @@
     "aws4": "^1.8.0",
     "awscred": "^1.4.2",
     "chance": "^1.0.18",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mustache": "^3.0.1",
     "superagent": "^5.0.5",
     "superagent-promise": "^1.1.0"
